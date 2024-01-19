@@ -2,7 +2,7 @@
   "projects": [
     {
       "id": "786d",
-      "name": "joao wictor",
+      "name": "Page news",
       "budget": "10000",
       "category": {
         "id": "2",
@@ -46,7 +46,7 @@
     },
     {
       "id": "a083",
-      "name": "wictor",
+      "name": "home page",
       "budget": "100",
       "category": {
         "id": "2",
