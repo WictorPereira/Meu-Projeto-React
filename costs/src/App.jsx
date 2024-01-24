@@ -4,10 +4,12 @@ import Company from '../src/components/pages/Company'
 import Contact from '../src/components/pages/Contact'
 import NewProject from '../src/components/pages/NewProject'
 import Projects from './components/pages/Projects.jsx'
+import Project from './components/pages/Project.jsx'
 
 import Container from './components/layout/Container.jsx'
 import Navbar from './components/layout/Navbar.jsx'
 import Footer from './components/layout/Footer.jsx'
+
 
 
 
@@ -24,6 +26,7 @@ function App() {
       <Route path='/contact' element={<Contact/>}/>
       <Route path='/newproject' element={<NewProject/>}/>
       <Route path='/projects' element={<Projects/>}/>
+      <Route path='/project/:id' element={<Project/>}/>
     </Routes>
     </Container>
     <Footer/>
