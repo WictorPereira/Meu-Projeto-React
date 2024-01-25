@@ -8,8 +8,27 @@
         "id": "3",
         "name": "Design"
       },
-      "cost": 0,
-      "servises": []
+      "cost": 1500,
+      "services": [
+        {
+          "name": "teste2",
+          "cost": "400",
+          "description": "faz isso",
+          "id": "7c1e478a-feaf-4298-9625-b31be4095666"
+        },
+        {
+          "name": "teste3",
+          "cost": "1000",
+          "description": "faz isso 2",
+          "id": "075ac7b5-f588-4003-810e-63e6a0898d4a"
+        },
+        {
+          "name": "teste19",
+          "cost": "100",
+          "description": "faz isso 3",
+          "id": "051956bd-f1b5-4596-9f3e-5871692095e3"
+        }
+      ]
     },
     {
       "id": "a083",
@@ -20,7 +39,7 @@
         "name": "Desenvolvimento"
       },
       "cost": 0,
-      "servises": []
+      "services": []
     }
   ],
   "categories": [
