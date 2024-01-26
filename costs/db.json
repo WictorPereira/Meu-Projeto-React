@@ -8,25 +8,25 @@
         "id": "3",
         "name": "Design"
       },
-      "cost": 1500,
+      "cost": 3099,
       "services": [
-        {
-          "name": "teste2",
-          "cost": "400",
-          "description": "faz isso",
-          "id": "7c1e478a-feaf-4298-9625-b31be4095666"
-        },
-        {
-          "name": "teste3",
-          "cost": "1000",
-          "description": "faz isso 2",
-          "id": "075ac7b5-f588-4003-810e-63e6a0898d4a"
-        },
         {
           "name": "teste19",
           "cost": "100",
           "description": "faz isso 3",
           "id": "051956bd-f1b5-4596-9f3e-5871692095e3"
+        },
+        {
+          "name": "Contratar Design ",
+          "cost": "1999",
+          "description": "Fazer  lading page nova",
+          "id": "8391282a-1ada-4e09-b9f8-131dd4001a82"
+        },
+        {
+          "name": "Dev Jr",
+          "cost": "1000",
+          "description": "conectar page com o BD",
+          "id": "f50dafd7-a401-4b43-aca3-8ba74d1d17e6"
         }
       ]
     },
